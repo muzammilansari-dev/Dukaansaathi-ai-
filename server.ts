@@ -10,7 +10,8 @@ import {
   validateAndSanitizeInput,
   InventoryItemState,
   ParsedItemAction,
-} from './server/logic.ts';
+} from './logic.ts';
+
 
 dotenv.config();
 
